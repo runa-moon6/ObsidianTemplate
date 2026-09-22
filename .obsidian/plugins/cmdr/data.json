@@ -1,0 +1,89 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 1,
+          "delay": 550
+        },
+        {
+          "action": 0,
+          "commandId": "editor:focus-top"
+        },
+        {
+          "action": 1,
+          "delay": 100
+        },
+        {
+          "action": 0,
+          "commandId": "editor:focus-left"
+        },
+        {
+          "action": 1,
+          "delay": 100
+        },
+        {
+          "action": 0,
+          "commandId": "daily-notes"
+        },
+        {
+          "action": 1,
+          "delay": 1500
+        },
+        {
+          "action": 0,
+          "commandId": "daily-notes:goto-prev"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "editor:focus-right"
+        },
+        {
+          "action": 1,
+          "delay": 100
+        },
+        {
+          "action": 0,
+          "commandId": "daily-notes"
+        }
+      ],
+      "name": "Startup",
+      "icon": "star",
+      "startup": true
+    }
+  ],
+  "explorer": [],
+  "textToolbarCommands": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [],
+    "editorMenuItems": [],
+    "fileMenuItems": []
+  },
+  "spacing": 0,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  },
+  "spacingReset": true
+}

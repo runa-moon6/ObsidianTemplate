@@ -1,0 +1,317 @@
+{
+  "workspaces": {
+    "Startup": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "fc30427fde7feb97",
+            "type": "split",
+            "children": [
+              {
+                "id": "df7756a3e55c4684",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "ffb62a667a8014b6",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "382a39b4a8f4799d",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "999_Templates/dummy.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "dummy"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "33b92dd909c23343",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "68a9d030d1e060e8",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "999_Templates/dummy.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "dummy"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              },
+              {
+                "id": "294585866ea24baa",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "e855733c37a6a5b4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "004_Tasks/iroiro.md",
+                        "kanbanViewState": {
+                          "kanban-plugin": "board",
+                          "list-collapse": [
+                            false,
+                            false,
+                            false
+                          ]
+                        }
+                      },
+                      "icon": "lucide-trello",
+                      "title": "iroiro"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "110ddd4ff8ab9d6b",
+        "type": "split",
+        "children": [
+          {
+            "id": "eb4f511b0cd8aec9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ba4e2fec64546d26",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false,
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "ファイルエクスプローラ"
+                }
+              },
+              {
+                "id": "bc8cc5e7c7834fe1",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "検索"
+                }
+              },
+              {
+                "id": "85f15615f5c75e0b",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "ブックマーク"
+                }
+              }
+            ]
+          },
+          {
+            "id": "22c5ad1d79ac424f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "67b3386dc37110c9",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "HQ.canvas",
+                    "viewState": {
+                      "x": -29.907978860590646,
+                      "y": -66.79712968299712,
+                      "zoom": -0.22618867723207023
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "HQ"
+                }
+              },
+              {
+                "id": "9c2ac984c4e92742",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "998_Tags/javascript.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "javascript"
+                }
+              },
+              {
+                "id": "6c591df8da5ee2fd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "睡眠データ分析.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "睡眠データ分析"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 346.5
+      },
+      "right": {
+        "id": "5124cce1b18495be",
+        "type": "split",
+        "children": [
+          {
+            "id": "77b7913939c64692",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d3a153acae68372f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "バックリンク"
+                }
+              },
+              {
+                "id": "e3178a766484c68c",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "アウトゴーイングリンク"
+                }
+              },
+              {
+                "id": "a86b6586fb4e1855",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "タグ"
+                }
+              },
+              {
+                "id": "1f08a3078480b854",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "すべてのプロパティ"
+                }
+              },
+              {
+                "id": "230cc6662485cd34",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "002_Notes/Rust20260902162902.md",
+                    "followCursor": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "アウトライン"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 282.2999267578125,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:クイックスイッチャーを開く": false,
+          "graph:グラフビューを開く": false,
+          "canvas:新規キャンバスを作成": false,
+          "daily-notes:今日のデイリーノートを開く": false,
+          "templates:テンプレートを挿入": false,
+          "command-palette:コマンドパレットを開く": false,
+          "bases:新規ベースを作成": false,
+          "workspaces:ワークスペースレイアウトを管理": false,
+          "obsidian-memos:Thino": false,
+          "obsidian-memos:Thino Super": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "homepage:Open homepage": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "omnisearch:Omnisearch": false,
+          "templater-obsidian:Templater": false,
+          "tldraw:Create new tldrawing": false,
+          "obsidian-git:Open Git source control": false,
+          "sheet-plus:Create excel file": false,
+          "obsidian-kanban:Create new board": false
+        }
+      },
+      "active": "68a9d030d1e060e8",
+      "mtime": "2026-09-22T14:14:23+09:00"
+    }
+  },
+  "active": "Startup"
+}

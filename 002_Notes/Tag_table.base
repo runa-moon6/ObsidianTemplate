@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.tags.contains("Tag")
+        - file.folder == "998_Tags"

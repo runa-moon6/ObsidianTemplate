@@ -1,0 +1,15 @@
+filters:
+  not:
+    - file.name.contains(".base")
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.folder == "002_Notes"
+    order:
+      - file.name
+      - Created
+      - Title
+  - type: table
+    name: ビュー

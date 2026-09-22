@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"12c20e9f352aa0b4","type":"file","file":"002_Notes/Note_table.base","x":-214,"y":-75,"width":292,"height":184},
+		{"id":"d8eecce47a6381b3","type":"text","text":"> ```meta-bind-button\n> style: primary\n> label: Add Note\n> id: add-project-default\n> action:\n>   type: templaterCreateNote\n>   templateFile: \"999_Templates/Note_enter_title.md\"\n>   folderPath: \"002_Notes\"\n> ```\n> ```meta-bind-button\n> style: primary\n> label: Add Class\n> id: add-project-default\n> action:\n>   type: templaterCreateNote\n>   templateFile: \"999_Templates/Tag.md\"\n>   folderPath: \"998_Tags\"\n> ```\n> ```meta-bind-button\n> style: primary\n> label: Write diary\n> id: add-project-default\n> action:\n>   type: templaterCreateNote\n>   templateFile: \"999_Templates/Diary.md\"\n>   folderPath: \"001_Diary\"\n> ```","x":-54,"y":-260,"width":132,"height":185},
+		{"id":"cf402efb21d40525","type":"file","file":"002_Notes/Tag_table.base","x":-214,"y":-260,"width":160,"height":185}
+	],
+	"edges":[]
+}
